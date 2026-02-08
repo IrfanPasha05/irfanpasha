@@ -1,5 +1,4 @@
-# irfanpasha
-<h1 align="center">Hi 👋, I'm Irfan</h1>
+<h1 align="center">Hi 👋, I'm Irfan Pasha</h1>
 <h3 align="center">Aspiring DevOps Engineer from India 🇮🇳</h3>
 
 ---
@@ -41,34 +40,32 @@
 
 ---
 
-## 📚 Currently Learning
-- Linux Administration
-- Git & GitHub
-- Docker & Kubernetes
-- AWS Cloud
-- CI/CD Pipelines
+## 📌 Featured Projects
+🚀 AWS EC2 Static Website  
+🚀 AWS Ubuntu Portfolio  
+🚀 GitHub Projects & React App
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=IrfanPasha05&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IrfanPasha05&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🔥 Top Languages
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrfanPasha05&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🤝 Connect with me
-- 💼 LinkedIn: Coming soon
-- 📧 Email: Coming soon
+- 💼 LinkedIn: Coming Soon
+- 📧 Email: Coming Soon
 
 ---
 
-⭐ From [Irfan Pasha](https://github.com/YOUR_USERNAME)
+⭐ From [IrfanPasha05](https://github.com/IrfanPasha05)
